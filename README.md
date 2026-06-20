@@ -63,8 +63,7 @@ motion-3d-skill/
 Add the required dependencies to your existing project:
 
 ```bash
-npm install three @react-three/fiber @react-three/drei framer-motion
-npm install -D @types/three
+npx skills add https://github.com/saidabror552-dev/motion-3d-skill --skill motion-3d-skill
 ```
 
 > **Version note:** React Three Fiber's major version must match your React version — R3F v8 targets React 18, v9 targets React 19. Check `package.json` before scaffolding.
