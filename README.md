@@ -223,7 +223,7 @@ This project is not currently licensed. No license, copyright, or usage terms ha
 
 ## ✍️ Author
 
-Created and maintained by [Saidabror552-dev](https://github.com/saidabror552-dev).
+Created and maintained by [Saidabror](https://t.me/sadiypro).
 
 ---
 
